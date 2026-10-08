@@ -39,7 +39,7 @@ Remarques :
 
 | Communication | Attestation présente | Problème constaté |
 |---------------|----------------------|-------------------|
-| « Ampleur et déterminants du diabète chez les adultes en milieu rural : cas de la commune de Kpomase au sud du Bénin » (CO52, 3e J3S3, FSS Cotonou, 01-05/10/2024) | `ATT_COMM_AZANDJEME COLLETE_2.pdf` | Le livret des 3e J3S3 n’existe que sous forme d’**extrait scanné partiel** (`Cancer du sein de l'adolescente_CNHU HKM.pdf` : couverture, sommaire pp. 7-9, chapitre 8 pp. 107-111, couverture arrière). **Aucune page de l’extrait ne cite cette communication** : le sommaire s’arrête au chapitre 18 (la liste continue sur la p. 10 du sommaire, qui n’est pas scannée). La page de couverture du livret existe donc, mais pas de page citant la communication. |
+| « Ampleur et déterminants du diabète chez les adultes en milieu rural : cas de la commune de Kpomase au sud du Bénin » (CO52, 3e J3S3, FSS Cotonou, 01-05/10/2024) | `ATT_COMM_AZANDJEME COLLETE_2.pdf` | Aucune page du livre ne cite cette communication : ni dans l’extrait scanné partiel du livret (`Cancer du sein de l'adolescente_CNHU HKM.pdf` : sommaire pp. 7-9 seulement, chapitre 18 max), **ni dans le livre « LIVRE DES RESUMES JOURNEES FSS FIN.pdf » ajouté au dépôt (voir § 5) dont le programme s’arrête au CO50, suivi de la cérémonie de clôture**. |
 | « Profil nutritionnel des patients atteints d’hépatopathie chronique au CNHU-HKM de Cotonou » (communication affichée, 5e JSIRSP, Ouidah, 01-02/12/2022) | `Attestaion1 JJSIRSP.pdf`, `Attestation JSIRSP_2.pdf`, `Attestationhepatopathie_JSIRSP5.pdf` (3 doublons, N°ID 5422144359) | Ce poster **n’apparaît nulle part** dans le programme du 5e JSIRSP (`Communication_4.pdf`), vérifié y compris dans la section des communications distancielles/posters (CLB-COD, ELM-COD, EPS-COD, SIS-COD). La page de couverture du livret existe, mais pas de page citant la communication. |
 | 3 conférences CFSI — « Lien et causalité entre l’exposition aux pesticides et le risque de développement du diabète », « Double/triple fardeau de la malnutrition en Afrique de l’Ouest », « Environnements alimentaires au Sénégal et au Bénin » (atelier CFSI/Oadel, Lomé, 04-06/11/2025) | `attestation-conference-azandjeme.pdf` (3 lettres, pp. 1-3) | **Aucun livret/programme** de cet atelier n’est présent dans le dépôt (pas même de page de garde). |
 
@@ -56,3 +56,21 @@ Elles n’ont donc pas de dossier associé :
 - `Cancer du sein de l'adolescente_CNHU HKM.pdf` : ce n’est **pas** un dossier de communication mais un **extrait scanné du livret des 3e J3S3** (couverture du livre « La FSS face aux défis sanitaires », sommaire, chapitre 8 « Cancer du sein de l’adolescente » pp. 107-111 et couverture arrière).
 - `Communication_2.pdf` : c’est le **livre des résumés du CAMES (JSDC-5)** (couverture + sommaire + 2 résumés), pas une communication.
 - `Communication_3.pdf` : programme/résumés des **4e JSIRSP** (Ouidah, 03-04/12/2020) — aucune attestation de communication ne lui correspond dans le dépôt.
+
+## 5. Analyse du livre « LIVRE DES RESUMES JOURNEES FSS FIN.pdf » (ajouté au dépôt, 3e J3S3, 01-05/10/2024)
+
+Livre de 91 pages analysé page par page le 08/10/2026 :
+- p. 1 : page de garde (« TROISIEMES JOURNÉES SCIENTIFIQUES DES SCIENCES DE LA SANTÉ DE L’UNIVERSITÉ D’ABOMEY-CALAVI — THÈME : LA FSS FACE AUX DÉFIS SANITAIRES CONTEMPORAINS — FSS Champ de Foire du 01 au 05 Octobre 2024 ») ;
+- pp. 2-15 : avant-propos, mot du doyen, sous-thèmes ;
+- pp. 16-21 : **programme scientifique** — communications orales **CO1 à CO50** (le CO50 est suivi de la « CÉRÉMONIE DE CLÔTURE ») ;
+- pp. 23-28 : résumés des conférences (inaugurale + Conf 1 à 6) ;
+- pp. 29-78 : **résumés des communications CO1 → CO50** (1 page par communication) ;
+- pp. 80-89 : communications de conférences grand public / symposiums ;
+- pp. 90-91 : remerciements des partenaires.
+
+**Vérification des communications attestées (CO51 et CO52) : elles ne figurent PAS dans ce livre.**
+- Le programme s’arrête au **CO50** (« Tumeurs cérébrales de l’adulte au CNHU-HKM… », ALIHONOU T), suivi de la cérémonie de clôture ;
+- aucun fragment des titres (« qualité de vie des adolescentes enceintes », « Aplahoué », « Djakotomey », « ampleur et déterminants du diabète », « Kpomase ») ni aucun co-auteur (FAOUZOU, VIDJINNAGNI, DOS SANTOS) n’apparaît dans les 91 pages ;
+- la seule occurrence d’AZANDJEME est dans le programme (p. 19) : table ronde « LA FORMATION EN NUTRITION : UN ENJEU DU DÉVELOPPEMENT DE LA SANTÉ » — aucune attestation de communication ne correspond à cette intervention.
+
+**Conséquence** : aucune nouvelle version (complète) des dossiers 10 (CO51) ni de dossier CO52 ne peut être produite avec ce livre. Le **dossier 10 en version sommaire est conservé** (page de garde + sommaire de l’autre édition du livret + attestation CO51). Si une version du livre incluant les CO51/CO52 existe (l’édition « chapitres » de l’extrait scanné listait le chapitre 13 = CO51 à la p. 164), merci de nous transmettre les pages concernées.
